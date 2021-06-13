@@ -1,0 +1,2 @@
+# Frankenstein
+Django + Blazor = Fun
