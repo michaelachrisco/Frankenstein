@@ -3,3 +3,12 @@ venv
 server/db.sqlite3
 server/.env
 server/__pycache__
+
+client/.vs/
+client/bin/
+client/obj/
+client/*.user
+client/artifacts/
+client/.vscode/
+client/.dotnet/
+client/*.binlog
